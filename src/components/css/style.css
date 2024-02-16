@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 .box {
-    min-width: 20rem;
-    min-height: 35rem;    
+    min-width: 100%;
+    min-height: 49rem;    
     width: 25%;
     background-color: #a5bbdd;
     margin: auto;
@@ -27,7 +27,7 @@
     border-radius: 10px;
     }
 .info {
-    margin-top: 20%;
+    margin-top: 2%;
     position: absolute;
     display: flex;
     justify-content: center;
